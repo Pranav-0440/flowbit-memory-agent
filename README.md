@@ -89,3 +89,11 @@ node -r ts-node/register src/demo/applyHumanFeedback.ts
 
 # Second invoice (auto-applies memory)
 node -r ts-node/register src/demo/runInvoice2.ts
+```
+
+## Agent Flow Architecture
+
+The following diagram illustrates how the Learned Memory Agent processes invoices,
+prioritizing learned vendor memory over heuristics and improving accuracy over time.
+
+<img width="2816" height="1374" alt="flow-diagram" src="https://github.com/user-attachments/assets/407305dd-27d2-4353-9837-2463f7cfe91e" />
