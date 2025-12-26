@@ -1,0 +1,30 @@
+[
+  {
+    "invoiceId": "INV-A-003",
+    "vendor": "Supplier GmbH",
+    "fields": {
+      "invoiceNumber": "INV-2024-003"
+    }
+  },
+  {
+    "invoiceId": "INV-A-004",
+    "vendor": "Supplier GmbH",
+    "fields": {
+      "invoiceNumber": "INV-2024-003"
+    }
+  },
+  {
+    "invoiceId": "INV-B-003",
+    "vendor": "Parts AG",
+    "fields": {
+      "invoiceNumber": "PA-7810"
+    }
+  },
+  {
+    "invoiceId": "INV-B-004",
+    "vendor": "Parts AG",
+    "fields": {
+      "invoiceNumber": "PA-7810"
+    }
+  }
+]
